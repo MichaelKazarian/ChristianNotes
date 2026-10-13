@@ -287,7 +287,7 @@ Footnotes
 Вадим Лисенко. [[https://www.facebook.com/reel/2039014139872829][Part 1]]. [[https://www.facebook.com/reel/448522524935937][Part 2]].
 [[https://www.facebook.com/share/p/17zJ7Zxtdy/?mibextid=rS40aB7S9Ucbxw6v][Храпач]].
 
-*** 15 неділя,  
+*** 15 неділя, про найбільші заповіді
 Мт. 22, 35-46
 #+BEGIN_SRC
 35. В тому часі один законовчитель приступив до Ісуса і спитав його, спокушаючи:
